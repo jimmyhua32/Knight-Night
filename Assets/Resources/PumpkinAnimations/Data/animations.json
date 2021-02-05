@@ -1,0 +1,39 @@
+{
+  "bleg" : [
+    {
+      "spriteSheetName": "PumpkinHop",
+      "animationName": "HopLeft",
+      "startFrame": 0,
+      "length": 5,
+      "framesPerSecond": 10
+    },
+	{
+      "spriteSheetName": "PumpkinHopRight",
+      "animationName": "HopRight",
+      "startFrame": 0,
+      "length": 5,
+      "framesPerSecond": 10
+    },
+	{
+      "spriteSheetName": "ExplodingLeft",
+      "animationName": "ExplodeLeft",
+      "startFrame": 0,
+      "length": 2,
+      "framesPerSecond": 8
+    },
+	{
+      "spriteSheetName": "ExplodingRight",
+      "animationName": "ExplodeRight",
+      "startFrame": 0,
+      "length": 2,
+      "framesPerSecond": 8
+    },
+	{
+	  "spriteSheetName": "Death",
+      "animationName": "Death",
+      "startFrame": 0,
+      "length": 3,
+      "framesPerSecond": 6
+	}
+  ]
+}

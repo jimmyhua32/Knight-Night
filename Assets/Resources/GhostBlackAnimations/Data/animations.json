@@ -1,0 +1,32 @@
+{
+  "bleg" : [
+	{
+      "spriteSheetName": "GhostBlackHover",
+      "animationName": "HoverLeft",
+      "startFrame": 0,
+      "length": 4,
+      "framesPerSecond": 4
+    },
+	{
+	  "spriteSheetName": "GhostBlackHover",
+      "animationName": "HoverRight",
+      "startFrame": 4,
+      "length": 4,
+      "framesPerSecond": 4
+	},
+	{
+	  "spriteSheetName": "GhostBlackAttack",
+      "animationName": "AngryHoverRight",
+      "startFrame": 4,
+      "length": 4,
+      "framesPerSecond": 4
+	},
+	{
+	  "spriteSheetName": "GhostBlackAttack",
+      "animationName": "AngryHoverLeft",
+      "startFrame": 0,
+      "length": 4,
+      "framesPerSecond": 4
+	}
+  ]
+}

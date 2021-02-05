@@ -1,0 +1,88 @@
+{
+  "bleg" : [
+    {
+      "spriteSheetName": "HeroSS_22x22",
+      "animationName": "IdleDown",
+      "startFrame": 0,
+      "length": 1,
+      "framesPerSecond": 1
+    },
+	{
+		"spriteSheetName":"HeroSS_22x22",
+		"animationName": "WalkingDown",
+		"startFrame": 0,
+		"length": 2,
+		"framesPerSecond": 4
+	},
+	{
+		"spriteSheetName":"HeroSS_22x22",
+		"animationName": "IdleUp",
+		"startFrame": 2,
+		"length": 1,
+		"framesPerSecond": 1
+	},
+	{
+		"spriteSheetName":"HeroSS_22x22",
+		"animationName": "WalkingUp",
+		"startFrame": 2,
+		"length": 2,
+		"framesPerSecond": 4
+	},
+	{
+		"spriteSheetName":"HeroSS_22x22",
+		"animationName": "IdleRight",
+		"startFrame": 4,
+		"length": 1,
+		"framesPerSecond": 1
+	},
+	{
+		"spriteSheetName": "HeroSS_22x22",
+		"animationName": "WalkingRight",
+		"startFrame": 4,
+		"length": 2,
+		"framesPerSecond": 4
+	},
+	{
+		"spriteSheetName":"HeroSS_22x22",
+		"animationName": "IdleLeft",
+		"startFrame": 7,
+		"length": 1,
+		"framesPerSecond": 1
+	},
+	{
+		"spriteSheetName": "HeroSS_22x22",
+		"animationName": "WalkingLeft",
+		"startFrame": 7,
+		"length": 2,
+		"framesPerSecond": 4
+	},
+	{
+		"spriteSheetName": "HeroSwingR",
+		"animationName": "SwingRight",
+		"startFrame": 0,
+		"length": 1,
+		"framesPerSecond": 1
+	},
+	{
+		"spriteSheetName": "HeroSwingL",
+		"animationName": "SwingLeft",
+		"startFrame": 0,
+		"length": 1,
+		"framesPerSecond": 1
+	},
+	{
+		"spriteSheetName": "HeroSwingU",
+		"animationName": "SwingUp",
+		"startFrame": 0,
+		"length": 1,
+		"framesPerSecond": 1
+	},
+	{
+		"spriteSheetName": "HeroSwingD",
+		"animationName": "SwingDown",
+		"startFrame": 0,
+		"length": 1,
+		"framesPerSecond": 1
+	}
+  ]
+}

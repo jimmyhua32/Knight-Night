@@ -1,0 +1,32 @@
+{
+  "bleg" : [
+	{
+      "spriteSheetName": "GhostHover",
+      "animationName": "HoverLeft",
+      "startFrame": 0,
+      "length": 4,
+      "framesPerSecond": 4
+    },
+	{
+	  "spriteSheetName": "GhostHoverRight",
+      "animationName": "HoverRight",
+      "startFrame": 0,
+      "length": 4,
+      "framesPerSecond": 4
+	},
+	{
+	  "spriteSheetName": "AngryHoverRight",
+      "animationName": "AngryHoverRight",
+      "startFrame": 0,
+      "length": 4,
+      "framesPerSecond": 4
+	},
+	{
+	  "spriteSheetName": "AngryHoverLeft",
+      "animationName": "AngryHoverLeft",
+      "startFrame": 0,
+      "length": 4,
+      "framesPerSecond": 4
+	}
+  ]
+}

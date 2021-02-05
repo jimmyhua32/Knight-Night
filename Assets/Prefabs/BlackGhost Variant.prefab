@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &6261700052309076558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7594264054615948469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f59e20eaa19efae43aa53ab08403261b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myRigidbody2D: {fileID: 7594264054615948475}
+  myBoxCollider2D: {fileID: 7594264054615948474}
+--- !u!1001 &6045656975581994077
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4216004867833716968, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_Name
+      value: BlackGhost Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 650
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -541
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716963, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716964, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716964, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716964, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716964, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716964, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4041882760785745815, guid: b8236bbc61583ca46866df89cc699b62,
+        type: 3}
+    - target: {fileID: 4554199303202642855, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: spriteSheetFolderPath
+      value: Assets/Resources/GhostBlackAnimations
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716965, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: myRigidbody2D
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4216004867833716965, guid: 1f6452315e1ade64c97d1c064c81a025,
+        type: 3}
+      propertyPath: myBoxCollider2D
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 4216004867833716965, guid: 1f6452315e1ade64c97d1c064c81a025, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 1f6452315e1ade64c97d1c064c81a025, type: 3}
+--- !u!1 &7594264054615948469 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4216004867833716968, guid: 1f6452315e1ade64c97d1c064c81a025,
+    type: 3}
+  m_PrefabInstance: {fileID: 6045656975581994077}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &7594264054615948475 stripped
+Rigidbody2D:
+  m_CorrespondingSourceObject: {fileID: 4216004867833716966, guid: 1f6452315e1ade64c97d1c064c81a025,
+    type: 3}
+  m_PrefabInstance: {fileID: 6045656975581994077}
+  m_PrefabAsset: {fileID: 0}
+--- !u!61 &7594264054615948474 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 4216004867833716967, guid: 1f6452315e1ade64c97d1c064c81a025,
+    type: 3}
+  m_PrefabInstance: {fileID: 6045656975581994077}
+  m_PrefabAsset: {fileID: 0}

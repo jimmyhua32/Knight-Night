@@ -1,0 +1,53 @@
+{
+  "bleg" : [
+	{
+      "spriteSheetName": "SkeletonWalk",
+      "animationName": "WalkDown",
+      "startFrame": 0,
+      "length": 2,
+      "framesPerSecond": 3
+    },
+	{
+      "spriteSheetName": "SkeletonWalk",
+      "animationName": "WalkUp",
+      "startFrame": 2,
+      "length": 2,
+      "framesPerSecond": 3
+    },
+	{
+      "spriteSheetName": "SkeletonWalk",
+      "animationName": "WalkRight",
+      "startFrame": 4,
+      "length": 2,
+      "framesPerSecond": 3
+    },
+	{
+      "spriteSheetName": "SkeletonWalk",
+      "animationName": "WalkLeft",
+      "startFrame": 6,
+      "length": 2,
+      "framesPerSecond": 3
+    },
+	{
+		"spriteSheetName": "SkeletonAttack",
+		"animationName": "Jump",
+		"startFrame": 0,
+		"length": 8,
+		"framesPerSecond": 8
+	},
+	{
+		"spriteSheetName": "SkeletonAttack",
+		"animationName": "Landed",
+		"startFrame": 10,
+		"length": 1,
+		"framesPerSecond": 1
+	},
+	{
+		"spriteSheetName": "SkeletonAttack",
+		"animationName": "Landing",
+		"startFrame": 8,
+		"length": 3,
+		"framesPerSecond": 6
+	}
+  ]
+}
